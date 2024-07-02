@@ -47,7 +47,7 @@ header{
    /* border: 2px solid red;*/
 }
 .nav-container1{
-    margin-left: 38%;
+    margin-left: 32%;
    /*border: 2px solid green;*/
     display: flex; 
     flex-direction:row; 
