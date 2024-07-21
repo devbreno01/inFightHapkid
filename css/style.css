@@ -307,10 +307,10 @@ header{
   
 }
 .conteudo-container6{
-    width: 400px;
+    width: 500px;
     background-color: #1E1E1E;
-    padding: 10px;
-    
+    padding: 15px;
+    border-radius: 5%;
    
 }
 #h6-container6{
@@ -321,13 +321,13 @@ header{
 }
 #p1-container6{
     font-family: 'Poppins', sans-serif;
-    font-size: 10px;
+    font-size: 16px;
     margin-top: 5px;
     color: white;
 }
 .p-container6{
     font-family: 'Poppins', sans-serif;
-    font-size: 10px;
+    font-size: 14px;
     color:white;
     margin-top: 15px;
 }
@@ -654,5 +654,11 @@ footer label{
     
 }
 
-
-
+@media screen and (min-width:1300px){
+    #logo {
+        margin-left: 10%;
+    }   
+    .nav-container1{
+        margin-left: 22%;
+    }
+}
