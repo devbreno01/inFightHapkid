@@ -469,6 +469,9 @@ footer label{
 /*celular*/
 @media screen and (min-width:375px) and (max-width:844px){
     /*menu-mobile*/
+    body{
+        width: 100%;
+    }
     .nav-container1{
         display: none;
     }
