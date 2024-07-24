@@ -473,6 +473,9 @@ footer label{
     body{
         overflow-x: hidden;
     }
+    #logo, .nav-container1, .container2 img {
+        max-width: 100%;
+    }
     .nav-container1{
         display: none;
     }
@@ -494,9 +497,12 @@ footer label{
     .container2,.container3,.container4,.container6, .container7,.container8{
         flex-direction: column;
         height: 100vh;
-        max-width: 100% !important;
-        overflow-x: hidden !important;
+       
         
+    }
+    .container2, .container3, .container4, .container6, .container7, .container8 {
+        width: 100%;
+        overflow-x: hidden;
     }
    
     .subtitulo-container2{
