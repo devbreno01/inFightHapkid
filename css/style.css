@@ -86,7 +86,8 @@ header{
     background: transparent;
     cursor: pointer;
     display: none;
-    margin-left: 87%;
+    margin-left: 90%;
+    border: 2px solid white;
    
 }
 .linha{
@@ -594,6 +595,7 @@ footer label{
        display: flex;
        flex-direction: column;
        align-items: center;
+       width: 100%;
     }
     .p-container6{
         font-size: 14px;
