@@ -494,6 +494,7 @@ footer label{
     .container2,.container3,.container4,.container6, .container7,.container8{
         flex-direction: column;
         height: 100vh;
+        max-width: 100%;
         
     }
    
