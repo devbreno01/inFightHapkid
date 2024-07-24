@@ -496,7 +496,7 @@ footer label{
     .subtitulo-container2{
        margin-left: 60px;
        display: block;
-       font-size: 18px;
+       font-size: 12px;
     }
     .container2{
         height: 80vh !important;
@@ -510,7 +510,7 @@ footer label{
     .txt-container2 h1{
         font-size: 70px;
         margin-top: 0;
-        margin-left: 12vw;
+        margin-left: 16vw;
         margin-bottom: 20px;
         width: 20%;
     }
