@@ -312,6 +312,7 @@ header{
     background-color: #1E1E1E;
     padding: 15px;
     border-radius: 5%;
+    overflow: hidden;
    
 }
 #h6-container6{
@@ -470,7 +471,7 @@ footer label{
 @media screen and (min-width:375px) and (max-width:844px){
     /*menu-mobile*/
     body{
-        width: 100%;
+        overflow-x: hidden;
     }
     .nav-container1{
         display: none;
